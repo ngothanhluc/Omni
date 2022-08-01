@@ -4,3 +4,4 @@ This is my first project with HTML, CSS and basic Javascript in Jonas Schmedtman
 Netlify: https://omnifood-lukengo.netlify.app/
 
 Github Pages: https://ngothanhluc.github.io/Omnifood/
+![alt text](https://github.com/ngothanhluc/Omnifood/blob/main/HeroSectionOmnifood.png?raw=true)
